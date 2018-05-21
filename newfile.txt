@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 64E8-DEC5
+
+ Directory of C:\Users\Tushar\Desktop\GitHUb\SVNTest
+
+05/22/2018  01:03 AM    <DIR>          .
+05/22/2018  01:03 AM    <DIR>          ..
+05/22/2018  12:55 AM               227 Jenkinsfile
+05/22/2018  01:03 AM                 0 newfile.txt
+05/22/2018  12:55 AM                25 README.md
+05/22/2018  12:55 AM                14 SVN Testing.txt
+05/22/2018  12:55 AM                 2 test
+05/22/2018  12:55 AM                17 this.txt
+               6 File(s)            285 bytes
+               2 Dir(s)  39,982,071,808 bytes free
